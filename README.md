@@ -13,4 +13,4 @@ FOR ADMIN:
   Give information about new books
 
 The project uses PHP  & MYSQL for backend.
-HTML5, Bootstrap and JS for front end.
+HTML5, Bootstrap(CSS) and JS for a responsive web interface.
