@@ -16,6 +16,6 @@ FOR ADMIN:
 The project uses PHP  & MYSQL for backend.
 HTML5, Bootstrap(CSS) and JS for a responsive web interface.
 
-![Home PAGE](https://github.com/punit-kulal/Library/blob/master/LIbrary/screenshots/home%20page.png?raw=true "Home
+![Home PAGE](https://github.com/punit-kulal/Library/blob/master/LIbrary/screenshots/home%20page.png?raw=true "Home")
 
 For more screenshots,https://github.com/punit-kulal/Library/tree/master/LIbrary/screenshots
