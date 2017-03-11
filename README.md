@@ -1,7 +1,8 @@
 # Library
 A Library search system which supports students and teacher(admin) login facility.
 Features include
-SHA256 encryption for safe storage of password
+SHA256 encryption for safe storage of password.
+
 FOR STUDENTS:
   Direct Search
   Advanced Search
